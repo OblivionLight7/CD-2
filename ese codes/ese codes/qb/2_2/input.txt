@@ -1,0 +1,12 @@
+int main(){
+    //this a program to add 2 numbers
+
+    /*declaring variable a*/
+    int a=5;
+    /*declaring variable b*/
+    int b=3;
+    /*declaring variable c*/
+    int c;
+    //adding the values of a and b
+    c=a+b;
+}

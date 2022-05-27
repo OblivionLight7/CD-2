@@ -1,0 +1,6 @@
+int main()
+{
+int abc = 1;
+int d = 10;
+int value=11; 
+}

@@ -1,0 +1,4 @@
+p=a+b
+a=a+b
+q=a+b
+r=x+y
